@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 81af4e1be9fe59046992ed61695a8302
   - enabled: 1
+    path: Assets/Scenes/PreRunMenu.unity
+    guid: 10bba60db45491e4d80ba98d12eccd61
+  - enabled: 1
     path: Assets/Scenes/Test.unity
     guid: 948e64b3ca6f9e74da22cfb599a813be
   m_configObjects: {}
