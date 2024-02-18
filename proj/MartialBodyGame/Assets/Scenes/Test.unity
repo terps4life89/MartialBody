@@ -564,6 +564,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2
   animator: {fileID: 1850057108}
+  attackCounter: 0
 --- !u!95 &1850057108
 Animator:
   serializedVersion: 5
@@ -901,7 +902,7 @@ Transform:
   m_GameObject: {fileID: 2011583926}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.06, y: -4.91, z: 0}
+  m_LocalPosition: {x: -0.03, y: -5.52, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -912,8 +913,8 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1728823895}
-  - {fileID: 1931371126}
   - {fileID: 2011583930}
+  - {fileID: 1931371126}
   - {fileID: 1850057105}
   - {fileID: 1956436356}
   - {fileID: 1522958363}
